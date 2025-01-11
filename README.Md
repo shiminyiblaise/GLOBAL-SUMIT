@@ -27,7 +27,7 @@
 - [🙏 Acknowledgements](#I am acknowledging the Codiegisoft Academy staff most especially Mr Ngala)
 - [📝 License](#All right reserved but no direct copy right.)
 
-# 📖 Blaise_portfolio_website <a name="about-project"></a>
+# 📖 GLOBAL_SUBMIT_PROJECT <a name="about-project"></a>
 
 This is the first technical Codegisoft Academy project it tests more on Git, GitHub, GitHub Workflow and Linters.
 And it is more of story and event that is conference
@@ -71,7 +71,7 @@ In order to run this project you need:
 Clone this repository to your desired folder:
 
 sh
-  cd week of fsd/Blaise_portfolio folder
+  cd week of fsd/GLOBAL SUBMIT folder
   git clone 
  https://github.com/shiminyiblaise/GLOBAL-SUMIT.git
 
